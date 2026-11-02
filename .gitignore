@@ -1,0 +1,22 @@
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Raw and generated datasets
+data/raw/
+data/processed/
+data/outputs/
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+
+# macOS system files
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
