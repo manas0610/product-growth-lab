@@ -1,10 +1,10 @@
-# Python environment
+# Python virtual environment
 .venv/
 __pycache__/
-.ipynb_checkpoints/
 .pytest_cache/
+.ipynb_checkpoints/
 
-# Raw and generated datasets
+# Original and generated data
 data/raw/
 data/processed/
 data/outputs/
@@ -13,10 +13,13 @@ data/outputs/
 *.duckdb
 *.duckdb.wal
 
-# macOS system files
+# macOS files
 .DS_Store
 
-# Secrets
+# Credentials
 .env
 .env.*
 !.env.example
+
+# Local editor settings
+.vscode/settings.json
