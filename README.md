@@ -80,7 +80,9 @@ These results support investigating improvements to product discovery and compar
 
 ### Behavioral Segmentation Dashboard
 
-Add your exported behavioral segmentation dashboard screenshot here once saved.
+### Behavioral Segmentation Dashboard
+
+![Behavioral Segmentation Dashboard](dashboard/02_segmentation_dashboard.png)
 
 ---
 
