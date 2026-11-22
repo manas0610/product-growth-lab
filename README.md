@@ -53,7 +53,7 @@ The relationship is observational and does not establish causation.
 
 ### Retention Dashboard
 
-![Retention Analytics Dashboard](dashboard/retention_dashboard.png)
+![Retention Analytics Dashboard](dashboard/01_retention_dashboard.png)
 
 The dashboard presents exact-day retention, weekly cohort heatmaps and activation-based retention comparisons.
 

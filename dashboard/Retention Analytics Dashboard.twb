@@ -1372,8 +1372,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='16' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98720' id='15' param='vert' type-v2='layout-flow' w='98666' x='667' y='640'>
+            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98720' id='19' param='vert' type-v2='layout-flow' w='98666' x='667' y='640'>
                 <zone fixed-size='123' h='10480' id='8' is-fixed='true' name='SEG KPI - One-day Share' w='32916' x='667' y='640'>
                   <layout-cache fixed-size-h='123' fixed-size-w='160' type-h='fixed' type-w='fixed' />
                   <zone-style>
@@ -1506,8 +1506,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='22' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98546' id='21' param='vert' type-v2='layout-flow' w='98666' x='667' y='727'>
+            <zone h='100000' id='26' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98546' id='25' param='vert' type-v2='layout-flow' w='98666' x='667' y='727'>
                 <zone h='8818' id='6' type-v2='text' w='85333' x='667' y='727'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' fontsize='24'>PRODUCT GROWTH LAB</run>
